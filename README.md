@@ -5,8 +5,8 @@
 Currently working as a **Frontend Developer Intern @ YCanary**, where I develop production-ready features using Vue.js, TypeScript, and Pinia for a product-based platform.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-chavan-b86638301/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ajaychavan.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-jade-nine-snwuipd7cf.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaychavan.dev@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AjayTechie/)
 
 ---
@@ -36,7 +36,7 @@ Currently working as a **Frontend Developer Intern @ YCanary**, where I develop 
 
 ## 🛠️ Featured Projects
 
-### [CraftMyCV](https://github.com/yourusername/craftmycv) - AI-Powered Resume Builder
+### [CraftMyCV](https://craft-my-cv-omega.vercel.app/) - AI-Powered Resume Builder
 **Tech Stack:** React (Vite) • Node.js • Express.js • Prisma • PostgreSQL • Gemini AI • Cloudinary • Razorpay
 
 A full-stack SaaS platform that generates AI-optimized, ATS-friendly resumes and cover letters
